@@ -6,6 +6,10 @@ Use this project at your own risk. The author(s) and contributors shall not be l
 
 By using this project, you acknowledge that you have read this disclaimer, understand it, and agree to be bound by its terms.
 
+# Important Notice
+
+This project is intended for lawful and ethical use only. Any malicious use, including but not limited to unauthorized access, harm to systems, networks, or data, or any other illegal activities, is strictly prohibited.
+
 # License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
